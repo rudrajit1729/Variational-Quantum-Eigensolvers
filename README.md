@@ -1,4 +1,13 @@
-# Variational Quantum Eigensolver (VQE)
+# Variational Quantum Eigensolvers (VQEs)
+
+## Notebooks
+
+Click on the links to launch the notebooks
+
+* [Building VQEs from Scratch](https://nbviewer.jupyter.org/github/rudrajit1729/Variational-Quantum-Eigensolvers/blob/main/VQE_Architecture.ipynb)
+
+
+* [VQEs for Energy Computation](https://nbviewer.jupyter.org/github/rudrajit1729/Variational-Quantum-Eigensolvers/blob/main/VQE_Energy_Of_H2.ipynb)
 
 ## Basics
 
